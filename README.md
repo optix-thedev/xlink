@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/optix-thedev/xlink/releases/latest">Download</a> ·
-  <a href="CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/optix-thedev/xlink/releases">Release notes</a>
 </p>
 
 ![XLink overview](docs/screenshots/overview.png)
